@@ -1,0 +1,103 @@
+[{
+    "name":"OPPO F21s Pro 5G",
+    "price":23000,
+    "description":"VIVO T3 pro is a powerful device with amold display",
+    "ratings":"4.1",
+    "images":[
+        {
+            "image":"/images/products/1.jpg"
+        }
+      
+    ],
+    "catagory":"Mobile phones",
+    "seller" :"Amazon",
+    "stock" :0
+},
+{
+    "name":"FastTrack HD Bluetooth caling Smart watch",
+    "price":18000,
+    "description":"VIVO T3  is a powerful device with amold display",
+    "ratings":"3.2",
+    "images":[
+        {
+            "image":"/images/products/2.jpg"
+        }
+       
+    ],
+    "catagory":"Smart Watches",
+    "seller" :"Filpcart",
+    "stock" :4
+},
+{
+    "name":"HP Laptop I5 Processor 12th Gen ",
+    "price":43000,
+    "description":"HP laptop is a powerful device with amold display",
+    "ratings":"4",
+    "images":[
+        {
+            "image":"/images/products/3.jpg"
+        }
+       
+    ],
+    "catagory":"Laptops",
+    "seller" :"Amazon",
+    "stock" :5
+},
+{
+    "name":"Bluetooth NeckBand VS102 ",
+    "price":3000,
+    "description":"VIVO T3 pro is a powerful device with amold display",
+    "ratings":"4.5",
+    "images":[
+        {
+            "image":"/images/products/4.jpg"
+        }
+    ],
+    "catagory":"Mobile phones",
+    "seller" :"Amazon",
+    "stock" :5
+},
+{
+    "name":"PUMA Shoe Sports",
+    "price":3000,
+    "description":"VIVO T3 pro is a powerful device with amold display",
+    "ratings":"4.5",
+    "images":[
+        {
+            "image":"/images/products/5.jpg"
+        }
+    ],
+    "catagory":"Mobile phones",
+    "seller" :"Amazon",
+    "stock" :5
+},
+{
+    "name":"Lenovo Ideapad Slim 3 Laptop",
+    "price":23000,
+    "description":"VIVO T3 pro is a powerful device with amold display",
+    "ratings":"4.5",
+    "images":[
+        {
+            "image":"/images/products/6.jpg"
+        }
+    ],
+    "catagory":"Mobile phones",
+    "seller" :"Amazon",
+    "stock" :5
+},
+{
+    "name":"VIVO T3 Pro",
+    "price":23000,
+    "description":"VIVO T3 pro is a powerful device with amold display",
+    "ratings":"4.5",
+    "images":[
+        {
+            "image":"/images/products/7.jpg"
+        }
+    ],
+    "catagory":"Mobile phones",
+    "seller" :"Amazon",
+    "stock" :6
+}
+
+]
